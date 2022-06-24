@@ -1,0 +1,20 @@
+local player = game.Players.LocalPlayer
+local rs = require(script.parent.ReplicatedStorage0
+local hwid = getservice:Connect("hwidService")
+local botcommand = bot.token
+local Bot = "OTg3NTI3NDUzODE3ODM1NTMw.GvbIHG.OEp9vEUhQeTf5WKrwuDke4kEJGRxNAQ5uDddeQ"
+ 
+ 
+   botCommands{
+    whitelist, sendHwid:getChildren("hwid")
+         then load
+           DiscordAPI.Js
+            [SERVERID] = "986503685427310612"
+            [CHANNELID] = "986519628010364968"
+            [SCRIPT] = "TEXT", Channel
+            [HWID] = Find.hwid
+            [LoadScript] LoadScript if hwid
+ 
+     hwid = {
+      
+ }  
